@@ -1,40 +1,18 @@
-# Agrocraft An E-Commerce Website For Fresh Farm Produce Vegetables And Fruits
+### Agrocraft – Yangi Dehqonchilik Mahsulotlari Uchun Elektron Savdo Sayti  
 
-#### An E-Commerce Website for farmers to sell their produce at better rates and buyers can purchase those produce via website using categorical and location wise search system. The one of main goal of this project is to eliminate middleman and provide an efficient and robust alternative method to ease the flow of overall market.
+#### Bu elektron savdo sayti dehqonlarga o‘z mahsulotlarini yanada yaxshi narxlarda sotish imkoniyatini yaratadi. Xaridorlar esa ushbu mahsulotlarni sayt orqali turkumlar (kategoriyalar) va joylashuv bo‘yicha qidirib, sotib olishlari mumkin. Ushbu loyihaning asosiy maqsadlaridan biri vositachilarni yo‘q qilish va umumiy bozor oqimini yengillashtirish uchun samarali va ishonchli muqobil usulni taqdim etishdir.  
 
-#### The applications supports CURD operation for products uploaded by farmers , and it is completely dynamic website build with MySql database and PHP as backend. 
+#### Dastur dehqonlar tomonidan yuklangan mahsulotlar uchun CRUD (yaratish, o‘qish, yangilash, o‘chirish) amallarini qo‘llab-quvvatlaydi. Bu to‘liq dinamik veb-sayt bo‘lib, MySQL ma'lumotlar bazasi va PHP orqa dastur sifatida ishlatilgan.  
 
-### Starter Images
-
-
-<div align= "center"> 
-<img src = "./Demo_Images/1.png" width = 400 height = 250 align = center> <br> <hr> <br>
-
-<img src = "./Demo_Images/2.png" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
-
-<img src = "./Demo_Images/3.png" width = 400 height = 250> <p>Products </p> <hr>
-
-<img src = "./Demo_Images/4.png" width = 400 height = 250> <p> Categorical and Location Wise Search</p> <br> 
-
-</div>
+### Boshlang‘ich Rasmlar  
 
 <div align= "center">  
-  
-## <a href = "https://youtu.be/f0YMvE3muIc" > Click Here </a> To Watch Demo Video
+<img src = "./Demo_Images/1.png" width = 400 height = 250 align = center> <br> <hr> <br>  
+
+<img src = "./Demo_Images/2.png" width = 400 height = 250> <p>Xaridor Bosh Sahifasi</p> <hr>  
+
+<img src = "./Demo_Images/3.png" width = 400 height = 250> <p>Mahsulotlar</p> <hr>  
+
+<img src = "./Demo_Images/4.png" width = 400 height = 250> <p>Turkum va Joylashuv Bo‘yicha Qidiruv</p> <br>  
 
 </div>
-
-### Technology Stack 
-* HTML
-* CSS
-* JAVASCRIPT
-* PHP
-* BOOTSTRAP
-
-### Made By
-<a href = "https://www.linkedin.com/in/abhishek-gupta-a745221a0/" >Abhishek Gupta </a><br>
-<a href = "https://www.linkedin.com/in/omkar-bhabal-620b56192/" >Omkar Bhabal</a> <br>
-<a href = "https://www.linkedin.com/in/ansh-chhadva-ab3902183/" >Ansh Chhadva</a> <br>
-<a href = "#" >Calista Gonsalves </a> <br>
-<a href = "https://www.linkedin.com/in/gladina-raymond-2a56a8194/" >Gladina Raymond </a><br>
-<a href = "https://www.linkedin.com/in/arpit-bhat-00a37816a/" >Arpit Bhat</a> <br>
