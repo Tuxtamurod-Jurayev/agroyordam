@@ -1,0 +1,20 @@
+body{
+    background: url(Images/Website/fon1.jpg);
+    background-size: 100% ;
+    text-align: center;
+    color: rgb(51, 50, 50);
+    
+}
+div{
+    padding: 6%;
+}
+label{
+    border: 5px solid rgb(51, 50, 50);
+    border-radius: 25px;
+    padding: 20px;
+    font-size: 60px;
+}
+a{
+    text-decoration: none;
+    color: rgb(51, 50, 50);
+}
